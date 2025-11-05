@@ -1,6 +1,10 @@
-## Hi there 👋
+## Hi there 👋 🌠
 
 AstrBot Team is dedicated to building a series of AI applications that bring the power of artificial intelligence to everyone’s daily life.
+
+Should you have any ideas that can elevate daily life, not exclusively confined to AstrBot, these could encompass software or hardware, AI applications, or even AI middleware, AI infrastructure, welcome to join us!
+
+> We rise together, back to the moon and beyond. —— Artemis Program
 
 ### AI Apps
 
