@@ -9,3 +9,4 @@ Should you have any ideas that can elevate daily life, not exclusively confined 
 ### AI Apps
 
 - [AstrBot](https://github.com/AstrBotDevs/AstrBot): AstrBot is an open-source, all-in-one Agentic chatbot framework that lets you build and deploy LLM-powered bots across multiple IM platforms, such as QQ, WeChat, Telegram, Discord, Slack. It supports Agent, RAG, MCP, and visual WebUI management, offering full Agentic capabilities and rich extensibility.
+- [Shipyard](https://github.com/AstrBotDevs/shipyard): ⛵️ Yet another lightweight agent sandbox runtime, support python interpreter, shell, file system components, etc. 🏖️
